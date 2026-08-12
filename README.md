@@ -11,9 +11,9 @@
 
 # ★ Zoe / everm4iva ★
 
-*“Hella high on stars”*
+*“Reaching for the stars”*
 
-[website](https://everm4iva.github.io) • probably eating mozzarella • [instagram](https://instagram.com/zoeisrad)
+[website](https://everm4iva.github.io) • probably creating a playlist • [instagram](https://instagram.com/zoeisrad)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### ☆ Who / What is this creature?
 
-Hello! I'm **Zoe** (`ZoeIsRad` / `NotYarazi`). I live in **Portugal**, building web apps, digital art and noise for **6+ years**.
+Hello! I'm **Zoe** (or `everm4iva` / `NotYarazi`). I live in **Portugal**, building web apps, digital art and noise for **6+ years**.
 
 I don't use pronouns - those are boring as hell. Just call me **"human"** or **"creature"**.
 
