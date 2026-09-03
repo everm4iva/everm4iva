@@ -33,30 +33,16 @@ I don't use pronouns - those are boring as hell. Just call me **"human"** or **"
 ### ☆ What I Build With
 
 ```
-Languages  ::  JavaScript (ES6+) / Python / Java / Rust / C# / HTML+CSS
+Languages  ::  JavaScript (ES6+) / Python / Java / Rust / HTML+CSS
 Focus      ::  100% Web-Focused (for now) & Local-First Systems
-Toolkit    ::  electron/cordova, bun/nodejs and dreams.
+Toolkit    ::  electron/cordova, bun/nodejs
 ```
 
 > If you ask me *"How are you going to profit from that?"* when I show you a project, you are nothing to me anymore. That's the only question I hate more than *"Why are you doing that?"*.
 ---
 
-### ☆ Projects i want to show
-
-### **pupl browser** *(In Concept / Active Planning)*
-  > An **anarchy software** experiment and a conceptual revolution of what a truly modular, free, and unrestricted browser can be - built with tons of twists.
-- repo: [github.com/everm4iva/puplbrowser](https://github.com/everm4iva/puplbrowser)
-
-### **Starl**
-> Lightweight, ad-free, offline-focused music streaming client.
-- website: [starl.pages.dev](https://starl.pages.dev)
-- repo: [github.com/everm4iva/starl](https://github.com/everm4iva/starl)
-
-### **downsrc**
-> Terminal-focused developer utility for quick web resource fetching.
-- repo: [github.com/everm4iva/downsrc](https://github.com/everm4iva/downsrc)
-
-... and many more, check them out [here](https://everm4iva.github.io/p).
+### ☆ Projects
+some are here and all of them are displayed in [here (my website)](https://everm4iva.github.io/p).
 
 ---
 
