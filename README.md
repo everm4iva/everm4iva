@@ -10,9 +10,6 @@
 ```
 
 # ★ Zoe / everm4iva ★
-
-*“Reaching for the stars”*
-
 [website](https://everm4iva.github.io) • either doing everything or nothing • [instagram](https://instagram.com/zoeisrad)
 
 </div>
