@@ -36,7 +36,7 @@ Toolkit    ::  electron/cordova, bun/nodejs
 Design     ::  Ms paint, Figma, Blender, Piskel.
 ```
 
-> If you ask me *"How are you going to profit from that?"* when I show you a project, you are nothing to me anymore. That's the only question I hate more than *"Why are you doing that?"*.
+> If you ask me *"How are you going to profit from that?"* when I show you a project, you are nothing to me anymore.
 ---
 
 ### ☆ Projects
