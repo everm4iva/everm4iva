@@ -10,7 +10,7 @@
 ```
 
 # ★ Zoe / everm4iva ★
-[website](https://everm4iva.github.io) • either doing everything or nothing • [instagram](https://instagram.com/zoeisrad)
+[website](https://everm4iva.github.io) • probably figuring it's own existence • [instagram](https://instagram.com/zoeisrad)
 
 </div>
 
@@ -23,7 +23,7 @@ Hello! I'm **Zoe** (or `everm4iva` / `NotYarazi`).
 
 I don't use pronouns - those are boring as hell. Just call me **"human"** or **"creature"**.
 
-- **Obsessions:** Stars, studying unusual stuff, music, 4 AM hot chocolate, dancing and cute animal plushies.
+- **Obsessions:** Stars, studying unusual stuff, music, 4 AM hot chocolate, dancing around the room.
 - **Project ethic:** No monetization, no ads, no tracking/telemetry, no money!! Keep it simple, modular and always open! Pure humanity and user-control over all!
 ---
 
