@@ -10,7 +10,7 @@
 ```
 
 # ★ Zoe / everm4iva ★
-[website](https://everm4iva.github.io) • probably improving social skills in a stupid way • [instagram](https://instagram.com/zoeisrad)
+probably eating something silly like noodles
 
 </div>
 
