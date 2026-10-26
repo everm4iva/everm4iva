@@ -10,7 +10,7 @@
 ```
 
 # ★ Zoe / everm4iva ★
-probably eating something silly like noodles
+"probably eating something silly... like noodles"
 
 </div>
 
