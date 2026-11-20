@@ -10,7 +10,7 @@
 ```
 
 # ★ Zoe / everm4iva ★
-"probably eating something silly... like noodles"
+"probably watching Pantheon (tv series) for the 6th time..."
 
 </div>
 
