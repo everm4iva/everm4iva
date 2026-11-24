@@ -54,8 +54,8 @@ some are here and all of them are displayed in [here (my website)](https://everm
 ---
 
 ### ☆ Boards
-|   |   |
-| :---: | :---: |
-| ![GitHub Stats Card](https://ghstats.dev/api/card?username=everm4iva&theme=midnight_sakura&show_ring=false&border_radius=0&hide=issues%2Cprs%2Cstreak%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos) | ![Top Languages](https://ghstats.dev/api/langs?username=everm4iva&theme=midnight_sakura&max_langs=5&layout=grid) |
-|   |   |
+|      |
+| :---: |
+| ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=everm4iva&layout=compact&langs_count=9&theme=radical) |
+|    |
 
